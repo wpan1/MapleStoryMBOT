@@ -1,6 +1,7 @@
 # MapleStoryMBOT
 
 ## Dependencies
+- Python 2.7
 - pywin32 (https://github.com/mhammond/pywin32)
 - Pillow (https://pillow.readthedocs.io/en/5.2.x/)
 
